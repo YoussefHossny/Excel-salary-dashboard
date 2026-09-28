@@ -28,6 +28,11 @@ The dataset used for this project contains real-world data science job informati
 - **📍 Locations**
 - **🛠️ Skills**
 
+## Key Findings
+- **Seniority pays:** Senior Data Analysts earn a median of $111K, about 24% more than Data Analysts ($90K).
+- **Role matters:** Data Engineers ($125K) and Data Scientists ($127.5K) out-earn Data Analysts by roughly 40%.
+- **SQL and Python dominate demand:** SQL appears in 18,500 skill mentions and Python in 17,689, well ahead of Tableau (7,043).
+
 ## Dashboard Build
 
 ### 📉 Charts
